@@ -1,4 +1,6 @@
-// include the library header
+//PLEASE NOTE: Hex stuff belong to LCD.  If you don't have an LCD attached to your proto. Please comment it. 
+
+//include the library header
 #include <glcd.h>
 
 // include the Fonts
